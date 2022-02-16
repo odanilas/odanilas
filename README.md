@@ -2,8 +2,6 @@
 
 Me chamo Daniel Nogueira, estudo Redes de Computadores e realizo Serviços em T.I.
 
-Rio de Janeiro, RJ.
-
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_uksqIjy6Qq7w6ZoCb6MDw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
