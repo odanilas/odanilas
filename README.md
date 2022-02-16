@@ -1,4 +1,4 @@
-### Olá ✌🏻
+### Olá!
 
 Me chamo Daniel Nogueira, estudo Redes de Computadores e realizo Serviços em T.I.
 
